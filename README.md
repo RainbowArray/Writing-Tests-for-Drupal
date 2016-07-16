@@ -5,6 +5,12 @@ If you have resources you would like to contribute, feel free to fire up a pull 
 
 ## DrupalCon sessions
 
+### 2014
+#### Austin
+- [From User Personas to Testing: A Project Manager's Journey to Behat](https://austin2014.drupal.org/session/user-personas-testing-project-managers-journey-towards-behat.html), Michelle Lauer (miche): [video](https://www.youtube.com/watch?v=V7IlmMoAZf4)
+- [Browser Eyeballing != JavaScript Testing](https://austin2014.drupal.org/session/browser-eyeballing-javascript-testing.html), Jordan Kasper (jakerella): [video](https://www.youtube.com/watch?v=xO2vtmrfReA)
+- [Automated Frontend Testing](https://austin2014.drupal.org/session/automated-frontend-testing.html), Chris Ruppel (rupl): [video](https://www.youtube.com/watch?v=1PCdlBSKhKk)
+
 ### 2013
 #### Prague
 - [Leveraging 12 years of PHP Unit](https://prague2013.drupal.org/session/leveraging-12-years-phpunit.html), Sebastian Bergmann: [video](https://www.youtube.com/watch?v=AXZ1I5M6sHQ)
