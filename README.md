@@ -5,8 +5,14 @@ If you have resources you would like to contribute, feel free to fire up a pull 
 
 ## DrupalCon sessions
 
-### 2014
+### 2015
+#### Los Angeles
+- [CI for CSS: Creating a Visual Regression Testing Workflow](https://events.drupal.org/losangeles2015/sessions/ci-css-creating-visual-regression-testing-workflow), Kate Kligman: [video](https://www.youtube.com/watch?v=D63FWeYhISU) and [slides](https://events.drupal.org/sites/default/files/slides/ci_for_css_kate_kligman.pdf)
+- [Using Grunt to Manage Drupal Build and Testing Tools](https://events.drupal.org/losangeles2015/sessions/using-grunt-manage-drupal-build-and-testing-tools), Joe Turgeon (arithmetic): [video](https://www.youtube.com/watch?v=XVydW7dTsCc) and [slides](https://events.drupal.org/sites/default/files/slides/Using%20Grunt%20with%20Drupal.pdf)
+- [Test-driven Drupal upgrades](https://events.drupal.org/losangeles2015/sessions/test-driven-drupal-upgrades), Alex Dergachev (dergachev), Dave Vasilevsky (vasi): [video](https://www.youtube.com/watch?v=m7yR3INX7fs)
+- [Multidimensional testing workflow before merge to master](https://events.drupal.org/losangeles2015/sessions/multidimensional-testing-workflow-merge-master), Yuriy Gerasimov (ygerasimov), Andrii Podanenko (podarok): [video](https://www.youtube.com/watch?v=o0pqKqnhWgw) and [slides](https://events.drupal.org/sites/default/files/slides/DrupalCon%20presentation%20CIBox.pdf)
 
+### 2014
 #### Amsterdam
 - [The Future of Drupal Functional Testing](https://amsterdam2014.drupal.org/session/future-drupal-functional-testing.html), Nick Schuch (nick_schuch), Cameron Zemek (grom358), Lee Rowlands (larowlan), Konstantin Kudryashov (everzet): [video](https://www.youtube.com/watch?v=ZaBvq8YlLm0)
 - [Doing Behaviour-Drive Development with Behat](https://amsterdam2014.drupal.org/session/doing-behaviour-driven-development-behat.html), Konstantin Kudryashov (everzet): [video](https://www.youtube.com/watch?v=lfW2ngf5DgE)
