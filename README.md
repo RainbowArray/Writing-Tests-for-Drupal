@@ -5,6 +5,12 @@ If you have resources you would like to contribute, feel free to fire up a pull 
 
 ## DrupalCon sessions
 
+- [Leveraging 12 years of PHP Unit](https://prague2013.drupal.org/session/leveraging-12-years-phpunit.html), Sebastian Bergmann, Prague 2013: [video](https://www.youtube.com/watch?v=AXZ1I5M6sHQ)
+- [Writing Unit Testable Code in Drupal 8](https://prague2013.drupal.org/session/writing-unit-testable-code-drupal-8.html), Mark Sonnabaum (msonnabaum), Prague 2013: [video](https://www.youtube.com/watch?v=dMxSMPNu094)
+- [JavaScript Testing](https://prague2013.drupal.org/session/javascript-testing.html), multiple presenters [Théodore Biadala (nod_), Jesse Beach, Steve De Jonghe (Seutje)], Prague 2013: [video](https://www.youtube.com/watch?v=IrqEBNoXvR4) and [slides](https://docs.google.com/presentation/d/1ZHVbnaHxv5lCzekeFXIgUNg-N5gqX7Wn-gZhAgdTZ-c/edit)
+- [Automated Acceptance Tests with Behat](https://prague2013.drupal.org/session/automated-acceptance-tests-behat.html), Nathan Lisgo (nlisgo), Prague 2013: [video](https://www.youtube.com/watch?v=pMvW2IK8Hl0)
+- [Behat + Contrib](https://prague2013.drupal.org/session/behat-contrib.html), multiple presenters [Melissa Anderson (eliza411), Howard Tyson (tizzo), Sam Boyer (sdboyer), Graham Taylor (tayzlor)], Prague 2013: [video](https://www.youtube.com/watch?v=2jL-cnwxqdo)
+- [Selenium/Webdriver: What, Where, Why and How](https://prague2013.drupal.org/session/selenium-webdriver-what-where-why-and-how.html), Earnest Berry (souvent22), Prague 2013: [video](https://www.youtube.com/watch?v=ZvBuX0VsDXQ)
 - [Show me the tests! Writing automated tests for Drupal](https://sydney2013.drupal.org/show-me-tests-writing-automated-tests-drupal), Lee Rowlands (larowlan), Sydney 2013: [slides](https://sydney2013.drupal.org/sites/default/files/slides/Drupalcon%20Sydney%20-%20Show%20me%20the%20tests!%20Writing%20Automated%20Tests%20for%20Drupal.pdf)
 - [Automated Testing and Drupal](https://chicago2011.drupal.org/sessions/automated-testing-and-drupal), Steven W. Merrill, Chicago 2011: [video](https://archive.org/details/drupalconchi_day2_automated_testing_and_drupal)
 - [Use SimpleTest!](https://cph2010.drupal.org/sessions/use-simpletest.html), Karsten Frohwein, Copenhagen 2010: no slides or video
