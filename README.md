@@ -5,6 +5,12 @@ If you have resources you would like to contribute, feel free to fire up a pull 
 
 ## DrupalCon sessions
 
+### 2016
+#### New Orleans
+- [What type of testing is good for me?](https://events.drupal.org/neworleans2016/sessions/what-type-testing-good-me), Yuriy Gerasimov (ygerasimov): [video](https://www.youtube.com/watch?v=P81DeT921Mk)
+- [Behat: Behavior-Driven Development, Functional Tests & Selenium (in Drupal!)](https://events.drupal.org/neworleans2016/sessions/behat-behavior-driven-development-functional-tests-selenium-drupal), Ryan Weaver (weaverryan): [video](https://www.youtube.com/watch?v=nnbpE7s-9J4) and [slides](https://events.drupal.org/sites/default/files/slides/behat3-drupal.pdf)
+- [Automated javascript testing: where we are and what we actually want](https://events.drupal.org/neworleans2016/sessions/automated-javascript-testing-where-we-are-and-what-we-actually-want), Daniel Wehner (dawehner): [video](https://www.youtube.com/watch?v=Uf0cc3Nnm_k)
+
 ### 2015
 #### Barcelona
 - [Principles of Solitary Unit Testing](https://events.drupal.org/barcelona2015/sessions/principles-solitary-unit-testing), Joseph Purcell (josephdpurcell): [video](https://www.youtube.com/watch?v=8kzjVG3ts2w)
