@@ -4,9 +4,9 @@ I am working on improving my ability to write tests for Drupal: particularly for
 If you have resources you would like to contribute, feel free to fire up a pull request!
 
 ## drupal.org documentation
-- [Drupal 8 automated testing API docs]: https://api.drupal.org/api/drupal/core%21core.api.php/group/testing
-- [PHPUnit guide]: https://www.drupal.org/phpunit
-- [SimpleTest guide]: https://www.drupal.org/simpletest
+- [Drupal 8 automated testing API docs](https://api.drupal.org/api/drupal/core%21core.api.php/group/testing)
+- [PHPUnit guide](https://www.drupal.org/phpunit)
+- [SimpleTest guide](https://www.drupal.org/simpletest)
 - [Contributor task: write an automated test for a Drupal core bug](https://www.drupal.org/contributor-tasks/write-tests)
 
 ## DrupalCon sessions
@@ -88,10 +88,10 @@ Amitai Burstein (amitaibu): [video](https://www.youtube.com/watch?v=6j6EqmgcM_A)
 - [Write Unit Tests for Your Drupal 7 Code, Part 1](https://www.lullabot.com/articles/write-unit-tests-for-your-drupal-7-code-part-1), Mateu Aguiló Bosch (e0ipso), lullabot.com, August 5, 2015
 - [Write Unit Tests for Your Drupal 7 Code, Part 2](https://www.lullabot.com/articles/write-unit-tests-for-your-drupal-7-code-part-2), Mateu Aguiló Bosch (e0ipso), lullabot.com, August 10, 2015
 - [Automated Testing of Drupal 8 Modules](https://www.sitepoint.com/automated-testing-drupal-8-modules/), Daniel Sipos, sitepoint.com, May 1, 2015
-- [CSS Regression Testing with Resemble.js](https://www.lullabot.com/articles/css-regression-testing-with-resemblejs), Blake Hall, lullabot.com, June 25, 2014
 - [Write testable code in Drupal - part 3, practical expamples](http://wadmiraal.net/lore/2014/07/24/write-testable-code-in-drupal-part-3/), Wouter Admiraal, wadmiraal.net, July 24, 2014
 - [Write testable code in Drupal - part 2, purity is the answer](http://wadmiraal.net/lore/2014/07/23/write-testable-code-in-drupal-part-2/), Wouter Admiraal, wadmiraal.net, July 23, 2014
 - [Write testable code in Drupal - part 1, what is wrong with Drupal tests](http://wadmiraal.net/lore/2014/07/22/write-testable-code-in-drupal-part-1/), Wouter Admiraal, wadmiraal.net, July 22, 2014
+- [CSS Regression Testing with Resemble.js](https://www.lullabot.com/articles/css-regression-testing-with-resemblejs), Blake Hall, lullabot.com, June 25, 2014
 - [Testing the front end with CasperJS](https://www.lullabot.com/articles/testing-the-front-end-with-casperjs), Juampy NR, lullabot.com, March 12, 2014
 - [3 Easy Steps to Drupal Unit Tests](https://www.phase2technology.com/blog/3-easy-steps-to-drupal-unit-tests/), Erik Summerfield, phase2technology.com, October 2, 2012
 - [Writing automated tests in Drupal 7](http://blog.worldempire.ch/story/writing-automated-tests-drupal-7), Sascha Grossenbacher (berdir), March 11, 2010
