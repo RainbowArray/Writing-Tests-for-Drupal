@@ -6,6 +6,12 @@ If you have resources you would like to contribute, feel free to fire up a pull 
 ## DrupalCon sessions
 
 ### 2014
+
+#### Amsterdam
+- [The Future of Drupal Functional Testing](https://amsterdam2014.drupal.org/session/future-drupal-functional-testing.html), Nick Schuch (nick_schuch), Cameron Zemek (grom358), Lee Rowlands (larowlan), Konstantin Kudryashov (everzet): [video](https://www.youtube.com/watch?v=ZaBvq8YlLm0)
+- [Doing Behaviour-Drive Development with Behat](https://amsterdam2014.drupal.org/session/doing-behaviour-driven-development-behat.html), Konstantin Kudryashov (everzet): [video](https://www.youtube.com/watch?v=lfW2ngf5DgE)
+- [Automated Frontend Testing](https://amsterdam2014.drupal.org/session/automated-frontend-testing.html), Chris Ruppel (rupl): [video](https://www.youtube.com/watch?v=qhA6O1u97PE)
+
 #### Austin
 - [From User Personas to Testing: A Project Manager's Journey to Behat](https://austin2014.drupal.org/session/user-personas-testing-project-managers-journey-towards-behat.html), Michelle Lauer (miche): [video](https://www.youtube.com/watch?v=V7IlmMoAZf4)
 - [Browser Eyeballing != JavaScript Testing](https://austin2014.drupal.org/session/browser-eyeballing-javascript-testing.html), Jordan Kasper (jakerella): [video](https://www.youtube.com/watch?v=xO2vtmrfReA)
