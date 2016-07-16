@@ -100,4 +100,3 @@ Amitai Burstein (amitaibu): [video](https://www.youtube.com/watch?v=6j6EqmgcM_A)
 
 # Video tutorials
 - [Automated Testing in Drupal 7 with SimpleTest](https://drupalize.me/videos/introduction-automated-testing-simpletest?p=1881), drupalize.me series
-- 
