@@ -5,5 +5,9 @@ If you have resources you would like to contribute, feel free to fire up a pull 
 
 ## DrupalCon sessions
 
-### SimpleTest
+- [Show me the tests! Writing automated tests for Drupal](https://sydney2013.drupal.org/show-me-tests-writing-automated-tests-drupal), Lee Rowlands (larowlan), Sydney 2013: [slides](https://sydney2013.drupal.org/sites/default/files/slides/Drupalcon%20Sydney%20-%20Show%20me%20the%20tests!%20Writing%20Automated%20Tests%20for%20Drupal.pdf)
+- [Automated Testing and Drupal](https://chicago2011.drupal.org/sessions/automated-testing-and-drupal), Steven W. Merrill, Chicago 2011: [video](https://archive.org/details/drupalconchi_day2_automated_testing_and_drupal)
 - [Use SimpleTest!](https://cph2010.drupal.org/sessions/use-simpletest.html), Karsten Frohwein, Copenhagen 2010 (no slides or video)
+- [Testing, part 1: Intro to testing](http://szeged2008.drupalcon.org/program/sessions/testing-part-1-intro-testing.html), multiple presenters [Angie Byron (webchick) and Florian Loretan (flobruit)], Szeged 2008: [video](https://archive.org/details/testing_part_1) and [slides](http://szeged2008.drupalcon.org/files/Simpletest-szeged.pdf)
+- [Testing, part 2: Awesome testing party!](http://szeged2008.drupalcon.org/program/sessions/testing-part-2-awesome-testing-party.html), multiple presenters [Angie Byron (webchick) and the Drupal Testing Brigade], Szeged 2008: [video](http://www.archive.org/details/testing_part_2)
+- [SimpleTest: Because clicking on forms is for suckers](http://boston2008.drupalcon.org/session/simpletest-because-clicking-forms-suckers.html), multiple presenters [Angie Byron (webchick), Rok Zlender, Karoly Negyesi (chx), Jimmy Berry (boombatower)], Boston 2008: resource list on session page 
