@@ -14,6 +14,11 @@ If you have resources you would like to contribute, feel free to fire up a pull 
 - [Behat + Contrib](https://prague2013.drupal.org/session/behat-contrib.html), multiple presenters [Melissa Anderson (eliza411), Howard Tyson (tizzo), Sam Boyer (sdboyer), Graham Taylor (tayzlor)]: [video](https://www.youtube.com/watch?v=2jL-cnwxqdo)
 - [Selenium/Webdriver: What, Where, Why and How](https://prague2013.drupal.org/session/selenium-webdriver-what-where-why-and-how.html), Earnest Berry (souvent22): [video](https://www.youtube.com/watch?v=ZvBuX0VsDXQ)
 
+#### Portland
+- [Behat, Behavior-Driven Development and Selenium in Drupal](https://portland2013.drupal.org/session/behat-behavioral-driven-development-and-selenium-drupal.html), Ryan Weaver (weaverryan): [video](https://www.youtube.com/watch?v=b_35hrRSVog)
+- [Automated Testing with Jasmine and PhantomJS](https://portland2013.drupal.org/session/automated-testing-jasmine-and-phantomjs.html), multiple presenters [Ronn Abueg (ronnbot) and Aisha Kaliel (akaliel)]: [video](https://www.youtube.com/watch?v=p5w6oNFT4ks)
+- [Testing your Drupal infrastructure](https://portland2013.drupal.org/session/testing-your-drupal-infrastructure.html), Barry Jaspan (bjaspan): [video](http://youtu.be/EHztJaDrAPo)
+
 #### Sydney
 - [Show me the tests! Writing automated tests for Drupal](https://sydney2013.drupal.org/show-me-tests-writing-automated-tests-drupal), Lee Rowlands (larowlan): [slides](https://sydney2013.drupal.org/sites/default/files/slides/Drupalcon%20Sydney%20-%20Show%20me%20the%20tests!%20Writing%20Automated%20Tests%20for%20Drupal.pdf)
 
