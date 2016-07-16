@@ -6,6 +6,14 @@ If you have resources you would like to contribute, feel free to fire up a pull 
 ## DrupalCon sessions
 
 ### 2015
+#### Barcelona
+- [Principles of Solitary Unit Testing](https://events.drupal.org/barcelona2015/sessions/principles-solitary-unit-testing), Joseph Purcell (josephdpurcell): [video](https://www.youtube.com/watch?v=8kzjVG3ts2w)
+- [Behat+Mink+PhantomJS = Test ALL THE THINGS!](https://events.drupal.org/barcelona2015/sessions/behatminkphantomjs-test-all-things), Michelle Sanver (michellesanver): [video](https://www.youtube.com/watch?v=cdbhYLeH_ig)
+- [Visual Regression Testing](https://events.drupal.org/barcelona2015/sessions/visual-regression-testing-codified-knowledge-base), 
+Amitai Burstein (amitaibu): [video](https://www.youtube.com/watch?v=6j6EqmgcM_A)
+- [Testing with Monkeys: Using Chaos for Better Code](https://events.drupal.org/barcelona2015/sessions/testing-monkeys-using-chaos-better-code), Andrew Holgate (andrewsuth): [video](https://www.youtube.com/watch?v=W83YhmwFWCk)
+- [SmarTest: Proposal for accelerating the detection of faults in Drupal](https://events.drupal.org/barcelona2015/sessions/smartest-proposal-accelerating-detection-faults-drupal), Ana Belén Sánchez (anabsanchez): [video](https://www.youtube.com/watch?v=_QBQkA741LY)
+
 #### Los Angeles
 - [CI for CSS: Creating a Visual Regression Testing Workflow](https://events.drupal.org/losangeles2015/sessions/ci-css-creating-visual-regression-testing-workflow), Kate Kligman: [video](https://www.youtube.com/watch?v=D63FWeYhISU) and [slides](https://events.drupal.org/sites/default/files/slides/ci_for_css_kate_kligman.pdf)
 - [Using Grunt to Manage Drupal Build and Testing Tools](https://events.drupal.org/losangeles2015/sessions/using-grunt-manage-drupal-build-and-testing-tools), Joe Turgeon (arithmetic): [video](https://www.youtube.com/watch?v=XVydW7dTsCc) and [slides](https://events.drupal.org/sites/default/files/slides/Using%20Grunt%20with%20Drupal.pdf)
