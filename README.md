@@ -95,7 +95,7 @@ Amitai Burstein (amitaibu): [video](https://www.youtube.com/watch?v=6j6EqmgcM_A)
 - [Testing the front end with CasperJS](https://www.lullabot.com/articles/testing-the-front-end-with-casperjs), Juampy NR, lullabot.com, March 12, 2014
 - [3 Easy Steps to Drupal Unit Tests](https://www.phase2technology.com/blog/3-easy-steps-to-drupal-unit-tests/), Erik Summerfield, phase2technology.com, October 2, 2012
 - [Writing automated tests in Drupal 7](http://blog.worldempire.ch/story/writing-automated-tests-drupal-7), Sascha Grossenbacher (berdir), March 11, 2010
-- [A Drupal Module Developer's Guide to SimpleTest](https://www.lullabot.com/articles/an-introduction-to-unit-testing-in-drupal), https://www.lullabot.com/articles/a-drupal-module-developers-guide-to-simpletest, lullabot.com, January 1, 2008
+- [A Drupal Module Developer's Guide to SimpleTest](https://www.lullabot.com/articles/an-introduction-to-unit-testing-in-drupal), Angie Byron, lullabot.com, January 1, 2008
 - [An Introduction to Unit Testing in Drupal](https://www.lullabot.com/articles/an-introduction-to-unit-testing-in-drupal), Angie Byron, lullabot.com, November 26, 2007
 
 # Video tutorials
