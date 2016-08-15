@@ -60,6 +60,11 @@ Amitai Burstein (amitaibu): [video](https://www.youtube.com/watch?v=6j6EqmgcM_A)
 #### Sydney
 - [Show me the tests! Writing automated tests for Drupal](https://sydney2013.drupal.org/show-me-tests-writing-automated-tests-drupal), Lee Rowlands (larowlan): [slides](https://sydney2013.drupal.org/sites/default/files/slides/Drupalcon%20Sydney%20-%20Show%20me%20the%20tests!%20Writing%20Automated%20Tests%20for%20Drupal.pdf)
 
+### 2012
+#### Denver
+- [Upal - a proposed test framework for Drupal 8](https://denver2012.drupal.org/content/upal-proposed-test-framework-drupal-8), Moshe Weitzman
+
+
 ### 2011
 #### Chicago
 - [Automated Testing and Drupal](https://chicago2011.drupal.org/sessions/automated-testing-and-drupal), Steven W. Merrill: [video](https://archive.org/details/drupalconchi_day2_automated_testing_and_drupal)
