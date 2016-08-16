@@ -62,8 +62,7 @@ Amitai Burstein (amitaibu): [video](https://www.youtube.com/watch?v=6j6EqmgcM_A)
 
 ### 2012
 #### Denver
-- [Upal - a proposed test framework for Drupal 8](https://denver2012.drupal.org/content/upal-proposed-test-framework-drupal-8), Moshe Weitzman: [slides](https://denver2012.drupal.org/sites/default/files/DrupalconDenverUpal.pdf)
-
+- [Upal — a proposed test framework for Drupal 8](https://denver2012.drupal.org/content/upal-proposed-test-framework-drupal-8), Moshe Weitzman: [slides](https://denver2012.drupal.org/sites/default/files/DrupalconDenverUpal.pdf)
 
 ### 2011
 #### Chicago
