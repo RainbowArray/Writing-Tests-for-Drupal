@@ -12,6 +12,30 @@ If you have resources you would like to contribute, feel free to fire up a pull 
 ## DrupalCon sessions
 
 ### 2016
+#### Vienna
+- [Automated Unit Testing 101](https://events.drupal.org/vienna2017/sessions/automated-testing-101), Zequi Vázquez (rabbitlair): [video](https://www.youtube.com/watch?v=Yo3GIyvF7Bw) and [slides](https://events.drupal.org/sites/default/files/slides/Automated%20Testing%20101.pdf)
+- [Break through large scale Drupal projects with Behat](https://events.drupal.org/vienna2017/sessions/break-through-large-scale-drupal-projects-behat), Bozhidar Boshnakov (bboshnakov) and Georgi Tarkalanov (gtarkalanov): [video](https://www.youtube.com/watch?v=tEa9r0KjEvk)
+- [Test Automation for Drupal 8 in Mobile Devices and Tablets](https://www.youtube.com/watch?v=uEk1DpwdcWI), Anastasios Daskalopoulos: [video](https://www.youtube.com/watch?v=uEk1DpwdcWI)
+- [The yearly update of the phpunit initiative](https://events.drupal.org/vienna2017/sessions/yearly-update-phpunit-initiative), Daniel Wehner (dawehner) and Jibran Ijaz (jibran): [video](https://www.youtube.com/watch?v=xHx5UcM3wnY)
+- [Test all the things! Get productive with automated testing in Drupal 8](https://events.drupal.org/vienna2017/sessions/test-all-things-get-productive-automated-testing-drupal-8), Sam Becker (sam152): [video](https://www.youtube.com/watch?v=MquqAplUXFY) and [slides](https://events.drupal.org/sites/default/files/slides/Test%20all%20the%20things%20-%20slides.pdf)
+- [Prophecise Your PHPUnit Tests](https://events.drupal.org/vienna2017/sessions/prophecise-your-phpunit-tests), Rakesh James (rakesh.gectcr): [video](https://www.youtube.com/watch?v=MUgcbduNwdc)
+- [Automatic Drupal Updates using Visual Regression & Continuous Integration](https://events.drupal.org/vienna2017/sessions/automatic-drupal-updates-using-visual-regression-continuous-integration), Matt Cheney (populist): [video](https://www.youtube.com/watch?v=vSkOeYO7Ycw)
+- [Continuously Test Your Drupal Distribution](https://events.drupal.org/vienna2017/sessions/continuously-test-your-drupal-distribution), Alexander Schedrov (sanchiz): [video](https://www.youtube.com/watch?v=L1nhFG0DrMc) and [slides](http://sanchiz.net/sites/default/files/DrupalConVienna-Continously-Test-Distro.pdf)
+- [PHPUnit for Drupal Developers](https://events.drupal.org/vienna2017/sessions/phpunit-drupal-developers), Sebastian Bergmann (sebastian_bergmann): [video](https://www.youtube.com/watch?v=P5zbtsQLnp4)
+
+
+#### Baltimore
+- [Bending Behat's Benefits](https://events.drupal.org/baltimore2017/sessions/bending-behats-benefits), Steve Persch (stevector): [video](https://www.youtube.com/watch?v=jPOLB-Yen4c) and [slides](https://docs.google.com/presentation/d/1_qt5xxz7Bsq-gVxCIV-LigcUdJijLyL3F0bnHS5Mhn8/pub?start=false&loop=false&delayms=3000#slide=id.g220794e0d7_1_22)
+- [Automatic Drupal Updates using Visual Regression & Continuous Integration](https://events.drupal.org/baltimore2017/sessions/automatic-drupal-updates-using-visual-regression-continious-integration), Matt Cheney (populist) and andrew.taylor (Andrew Taylor): [video](https://www.youtube.com/watch?v=KHj0I_sL6aM)
+- [Implementing Full Stack Test Automation for Drupal 8 - From Unit to Acceptance Tests](https://events.drupal.org/baltimore2017/sessions/implementing-full-stack-test-automation-drupal-8-unit-acceptance-tests), Anastasios Daskalopoulos: [video] (https://www.youtube.com/watch?v=SceHV1Hueng) and [slides](https://events.drupal.org/sites/default/files/slides/A.Daskalopoulos-Test_Automation.ppt) (Powerpoint)
+- [Testing for the Brave and True](https://events.drupal.org/baltimore2017/sessions/testing-brave-and-true), Gabe Sullice (gabesullice): [video](https://www.youtube.com/watch?v=6M5DtHeeXYI) and [slides](https://events.drupal.org/sites/default/files/slides/DrupalCon%20Baltimore-%20Testing%20for%20the%20Brave%20and%20True.pdf)
+
+### 2016
+#### Dublin
+- [Automated Unit Testing: PHPUnit All the Way](https://events.drupal.org/dublin2016/sessions/automated-testing-phpunit-all-way), Klaus Purer (kpurer) and Daniel Wehner (dawehner): [video](https://www.youtube.com/watch?v=jcdEp3YGa94) and [slides](https://docs.google.com/presentation/d/1Uhw3wYfcC_axz6SRTxEHVe8FZHbA-tUGN7dr7YyHMXg/edit?usp=sharing)
+- [JavaScript Unit Testing](https://events.drupal.org/dublin2016/sessions/javascript-unit-testing), Matt Grill (drpal): [video](https://www.youtube.com/watch?v=126XgrDKnFw)
+- [Testing Your Code as Part of an Industrial Grade Workflow](https://events.drupal.org/dublin2016/sessions/testing-your-code-part-industrial-grade-workflow), Matt Cheney (populist): [video](https://www.youtube.com/watch?v=d9oCjnTQC7I)
+
 #### New Orleans
 - [What type of testing is good for me?](https://events.drupal.org/neworleans2016/sessions/what-type-testing-good-me), Yuriy Gerasimov (ygerasimov): [video](https://www.youtube.com/watch?v=P81DeT921Mk)
 - [Behat: Behavior-Driven Development, Functional Tests & Selenium (in Drupal!)](https://events.drupal.org/neworleans2016/sessions/behat-behavior-driven-development-functional-tests-selenium-drupal), Ryan Weaver (weaverryan): [video](https://www.youtube.com/watch?v=nnbpE7s-9J4) and [slides](https://events.drupal.org/sites/default/files/slides/behat3-drupal.pdf)
@@ -89,6 +113,7 @@ Amitai Burstein (amitaibu): [video](https://www.youtube.com/watch?v=6j6EqmgcM_A)
 - [SimpleTest: Because clicking on forms is for suckers](http://boston2008.drupalcon.org/session/simpletest-because-clicking-forms-suckers.html), Angie Byron (webchick), Rok Zlender, Karoly Negyesi (chx), Jimmy Berry (boombatower): resource list on session page 
 
 # Articles
+- [An overview of testing in Drupal 8](https://www.lullabot.com/articles/an-overview-of-testing-in-drupal-8), Juampy NR, lullabot.com, April 27, 2017
 - [Write Unit Tests for Your Drupal 7 Code, Part 1](https://www.lullabot.com/articles/write-unit-tests-for-your-drupal-7-code-part-1), Mateu Aguiló Bosch (e0ipso), lullabot.com, August 5, 2015
 - [Write Unit Tests for Your Drupal 7 Code, Part 2](https://www.lullabot.com/articles/write-unit-tests-for-your-drupal-7-code-part-2), Mateu Aguiló Bosch (e0ipso), lullabot.com, August 10, 2015
 - [Automated Testing of Drupal 8 Modules](https://www.sitepoint.com/automated-testing-drupal-8-modules/), Daniel Sipos, sitepoint.com, May 1, 2015
