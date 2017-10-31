@@ -11,7 +11,7 @@ If you have resources you would like to contribute, feel free to fire up a pull 
 
 ## DrupalCon sessions
 
-### 2016
+### 2017
 #### Vienna
 - [Automated Unit Testing 101](https://events.drupal.org/vienna2017/sessions/automated-testing-101), Zequi Vázquez (rabbitlair): [video](https://www.youtube.com/watch?v=Yo3GIyvF7Bw) and [slides](https://events.drupal.org/sites/default/files/slides/Automated%20Testing%20101.pdf)
 - [Break through large scale Drupal projects with Behat](https://events.drupal.org/vienna2017/sessions/break-through-large-scale-drupal-projects-behat), Bozhidar Boshnakov (bboshnakov) and Georgi Tarkalanov (gtarkalanov): [video](https://www.youtube.com/watch?v=tEa9r0KjEvk)
