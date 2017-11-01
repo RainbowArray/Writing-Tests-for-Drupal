@@ -9,6 +9,10 @@ If you have resources you would like to contribute, feel free to fire up a pull 
 - [SimpleTest guide](https://www.drupal.org/simpletest)
 - [Contributor task: write an automated test for a Drupal core bug](https://www.drupal.org/contributor-tasks/write-tests)
 
+# Drupalize.me tutorials
+- [Testing in Drupal topic page](https://drupalize.me/topic/testing-drupal)
+- [Automated Testing in Drupal 7 with SimpleTest](https://drupalize.me/videos/introduction-automated-testing-simpletest?p=1881), drupalize.me series
+
 ## DrupalCon sessions
 
 ### 2017
@@ -126,6 +130,3 @@ Amitai Burstein (amitaibu): [video](https://www.youtube.com/watch?v=6j6EqmgcM_A)
 - [Writing automated tests in Drupal 7](http://blog.worldempire.ch/story/writing-automated-tests-drupal-7), Sascha Grossenbacher (berdir), March 11, 2010
 - [A Drupal Module Developer's Guide to SimpleTest](https://www.lullabot.com/articles/an-introduction-to-unit-testing-in-drupal), Angie Byron, lullabot.com, January 1, 2008
 - [An Introduction to Unit Testing in Drupal](https://www.lullabot.com/articles/an-introduction-to-unit-testing-in-drupal), Angie Byron, lullabot.com, November 26, 2007
-
-# Video tutorials
-- [Automated Testing in Drupal 7 with SimpleTest](https://drupalize.me/videos/introduction-automated-testing-simpletest?p=1881), drupalize.me series
