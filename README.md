@@ -9,6 +9,10 @@ If you have resources you would like to contribute, feel free to fire up a pull 
 - [SimpleTest guide](https://www.drupal.org/simpletest)
 - [Contributor task: write an automated test for a Drupal core bug](https://www.drupal.org/contributor-tasks/write-tests)
 
+## Starterkits and Templates
+- [Drupal Testing Container](https://github.com/deviantintegral/drupal_tests) for testing modules with Drupal and Behat tests under CircleCI.
+- [Drupal 8 CI](https://github.com/lullabot/drupal8ci) for testing a Drupal site under CircleCI.
+
 ## Drupalize.me tutorials
 - [Testing in Drupal topic page](https://drupalize.me/topic/testing-drupal)
 - [Automated Testing in Drupal 7 with SimpleTest](https://drupalize.me/videos/introduction-automated-testing-simpletest?p=1881), drupalize.me series
